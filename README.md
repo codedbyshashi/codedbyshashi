@@ -1,73 +1,69 @@
-<!-- banner (optional): upload banner image to this repo and uncomment the next line -->
+<!-- Optional banner (upload your own image and uncomment) -->
 <!-- ![banner](./assets/banner.png) -->
 
 <h1 align="center">Hi 👋, I'm Shashi</h1>
 <p align="center">
-  <strong>Java | Spring Boot | Full-stack (React) | DSA</strong> • Building scalable backend systems & real-world full-stack products • Aspiring SDE (product companies)
+  <strong>Java | Spring Boot | Full-Stack (React) | DSA</strong>  
+  🚀 Building scalable backend systems & real-world full-stack products • Aspiring SDE
 </p>
 
 ---
 
-## 🔭 What I build
-- **Ecommerce Full-Stack** — Spring Boot + React + PostgreSQL + JWT + Stripe. Features: product catalog, cart, orders, admin panel, JWT auth, deployment (Docker + AWS).  
-- **Spring AI Projects** — integrations with OpenAI, image generation and chat features, deployed services.  
-- **Portfolio & Small Tools** — polished front-end portfolio, small utilities and demos.
+## 🔭 Projects I’ve Built
+- **Ecommerce Full-Stack** — Spring Boot + React + PostgreSQL + Stripe + JWT  
+  👉 Production-ready ecommerce app with product catalog, cart, orders, admin panel, secure APIs, role-based access, pagination, error handling, and Docker + AWS deployment.
 
+- **Spring AI Integrations** — OpenAI-powered Chat & Image Generator  
+  👉 REST APIs + React UI to generate images and recipes, showcasing modern API integrations and real-time UX patterns.
 
+- **Portfolio Website** — Responsive personal site to showcase projects, resume, and blog posts.  
+  👉 Built with HTML/CSS/JS (dark-light theme switcher included).
 
 ---
 
-## 🛠️ Tech stack
-**Backend:** Java, Spring Boot, JPA/Hibernate, REST, JWT, Spring Security  
+## 🛠️ Tech Stack
+**Backend:** Java, Spring Boot, Spring Security, JPA/Hibernate, REST APIs, JWT  
 **Frontend:** React, Redux, Tailwind CSS, Axios  
-**DB / Infra:** PostgreSQL / MySQL, Docker
-**DSA / CP:** Arrays, Graphs, Trees, DP — Solving LeetCode & contest practice  
+**Database & Infra:** PostgreSQL, MySQL, Docker  
+**DSA/CP:** Strong grasp of Arrays, Graphs, Trees, DP  
 **Tools:** Git, GitHub Actions, Postman, IntelliJ, VSCode
 
 ---
 
-## 📂 Highlighted projects
-
-
-- **Ecommerce (Full-Stack)** — `github.com/codedbyshashi/ecommerce`  
-  Built a production-ready ecommerce backend with JWT auth, role-based access, file upload, Stripe payments and deployed on AWS. Implemented secure APIs and pagination; improved API response patterns and error handling.
-
-- **Spring AI — Recipe & Image Generator** — `github.com/codedbyshashi/spring-ai`  
-  Integrated OpenAI APIs for chat + image generation. Built service layer, controllers, and a React front-end. Demonstrates API integrations and real-time UX patterns.
-
-- **Portfolio** — `github.com/codedbyshashi/personal-portfolio-website`  
-  Clean frontend to showcase projects with demos, deployment link, and a downloadable resume.
+## 📂 Featured Repositories
+- [Ecommerce (Full-Stack)](https://github.com/codedbyshashi/ecommerce)  
+- [Spring AI: Chat & Image Generator](https://github.com/codedbyshashi/spring-ai)  
+- [Personal Portfolio](https://github.com/codedbyshashi/personal-portfolio-website)
 
 ---
 
-## 📈 GitHub stats & activity
-<!-- optional: use GitHub Readme Stats / Top Languages cards -->
+## 📊 GitHub Stats
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=codedbyshashi&show_icons=true&theme=default&hide_border=true" alt="Shashi's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyshashi&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codedbyshashi&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyshashi&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🎯 Goals (short)
-- Land SDE internships & full-time roles at product companies.  
-- Strengthen DSA, LLD basics and system design foundations.  
-- Publish 1 meaningful open-source contribution per month.
+## 🎯 Current Goals
+- Crack SDE roles at **top product companies**  
+- Sharpen **DSA + LLD + System Design** fundamentals  
+- Contribute to **open-source Java/Spring projects**  
 
 ---
 
-## 📫 How to reach me
-- Email: kotashashidharreddy1@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/shashidhar-reddy-730176344/
-- LeetCode: https://leetcode.com/u/shashi8195/
-- Portfolio: coming soon...
+## 📫 Let’s Connect
+- 📧 Email: **kotashashidharreddy1@gmail.com**  
+- 💼 LinkedIn: [Shashidhar Reddy](https://www.linkedin.com/in/shashidhar-reddy-730176344/)  
+- 🏆 LeetCode: [shashi8195](https://leetcode.com/u/shashi8195/)  
+- 🌐 Portfolio: *coming soon…*
 
 ---
 
-## ✅ What I’m open to
-- Internships / SDE roles (backend / full-stack) • Open to remote & relocation.  
-- Collaborations on open-source Java / Spring projects.
+## ✅ Open To
+- Internship / Full-time **SDE roles (Backend | Full-Stack)**  
+- Collaborations on **Java, Spring Boot, or DSA-related projects**  
 
 ---
 
-> &middot; *Profile last updated:* <!-- optionally use an action to update timestamp -->
+> 🔄 *Last updated: August 2025* (auto-update workflow coming soon 🚀)
