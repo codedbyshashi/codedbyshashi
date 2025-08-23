@@ -13,7 +13,7 @@
 - **Spring AI Projects** — integrations with OpenAI, image generation and chat features, deployed services.  
 - **Portfolio & Small Tools** — polished front-end portfolio, small utilities and demos.
 
-> Short case studies and live links are in each project README (see pinned repos).
+
 
 ---
 
@@ -27,7 +27,7 @@
 ---
 
 ## 📂 Highlighted projects
-> Short, impact-focused bullets. Link the repo and write one line that shows value/complexity.
+
 
 - **Ecommerce (Full-Stack)** — `github.com/codedbyshashi/ecommerce`  
   Built a production-ready ecommerce backend with JWT auth, role-based access, file upload, Stripe payments and deployed on AWS. Implemented secure APIs and pagination; improved API response patterns and error handling.
