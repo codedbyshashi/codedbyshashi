@@ -23,9 +23,9 @@
 
 ## 🛠️ Tech Stack
 **Backend:** Java, Spring Boot, Spring Security, JPA/Hibernate, REST APIs, JWT  
-**Frontend:** React, Redux, Tailwind CSS, Axios  
+**Frontend:** Html,Css,Javascript,React, Redux, Tailwind CSS, Axios  
 **Database & Infra:** PostgreSQL, MySQL, Docker  
-**DSA/CP:** Strong grasp of Arrays, Graphs, Trees, DP  
+**DSA/CP:** Strong grasp of Arrays, Graphs, Trees, DP,Recursion  
 **Tools:** Git, GitHub Actions, Postman, IntelliJ, VSCode
 
 ---
