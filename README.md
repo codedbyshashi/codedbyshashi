@@ -1,69 +1,22 @@
-<!-- Optional banner (upload your own image and uncomment) -->
-<!-- ![banner](./assets/banner.png) -->
+# 💫 About Me:
+Hi 👋, I'm Shashi<br>Java | Spring Boot | Full-Stack (React) | DSA 🚀 Building scalable backend systems & real-world full-stack products • Aspiring SDE<br><br>🔭 Projects I’ve Built<br>Ecommerce Full-Stack — Spring Boot + React + PostgreSQL + Stripe + JWT<br>👉 Production-ready ecommerce app with product catalog, cart, orders, admin panel, secure APIs, role-based access, pagination, error handling, and Docker + AWS deployment.<br><br>Spring AI Integrations — OpenAI-powered Chat & Image Generator<br>👉 REST APIs + React UI to generate images and recipes, showcasing modern API integrations and real-time UX patterns.<br><br>Portfolio Website — Responsive personal site to showcase projects, resume, and blog posts.<br>👉 Built with HTML/CSS/JS (dark-light theme switcher included).<br><br>🛠️ Tech Stack<br>Backend: Java, Spring Boot, Spring Security, JPA/Hibernate, REST APIs, JWT<br>Frontend: Html,Css,Javascript,React, Redux, Tailwind CSS, Axios<br>Database & Infra: PostgreSQL, MySQL, Docker<br>DSA/CP: Strong grasp of Arrays, Graphs, Trees, DP,Recursion<br>Tools: Git, GitHub Actions, Postman, IntelliJ, VSCode<br><br>📂 Featured Repositories<br>Ecommerce (Full-Stack)<br>Spring AI: Chat & Image Generator<br>Personal Portfolio<br>📊 GitHub Stats<br> <br><br>🎯 Current Goals<br>Crack SDE roles at top product companies<br>Sharpen DSA + LLD + System Design fundamentals<br>Contribute to open-source Java/Spring projects<br>📫 Let’s Connect<br>📧 Email: kotashashidharreddy1@gmail.com<br>💼 LinkedIn: Shashidhar Reddy<br>🏆 LeetCode: shashi8195<br>🌐 Portfolio: coming soon…<br>✅ Open To<br>Internship / Full-time SDE roles (Backend | Full-Stack)<br>Collaborations on Java, Spring Boot, or DSA-related projects<br>🔄 Last updated: August 2025 (auto-update workflow coming soon 🚀)
 
-<h1 align="center">Hi 👋, I'm Shashi</h1>
-<p align="center">
-  <strong>Java | Spring Boot | Full-Stack (React) | DSA</strong>  
-  🚀 Building scalable backend systems & real-world full-stack products • Aspiring SDE
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shashidhar-reddy-kota-730176344/) 
 
-## 🔭 Projects I’ve Built
-- **Ecommerce Full-Stack** — Spring Boot + React + PostgreSQL + Stripe + JWT  
-  👉 Production-ready ecommerce app with product catalog, cart, orders, admin panel, secure APIs, role-based access, pagination, error handling, and Docker + AWS deployment.
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=codedbyshashi&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=codedbyshashi&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyshashi&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- **Spring AI Integrations** — OpenAI-powered Chat & Image Generator  
-  👉 REST APIs + React UI to generate images and recipes, showcasing modern API integrations and real-time UX patterns.
 
-- **Portfolio Website** — Responsive personal site to showcase projects, resume, and blog posts.  
-  👉 Built with HTML/CSS/JS (dark-light theme switcher included).
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=codedbyshashi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=codedbyshashi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-**Backend:** Java, Spring Boot, Spring Security, JPA/Hibernate, REST APIs, JWT  
-**Frontend:** Html,Css,Javascript,React, Redux, Tailwind CSS, Axios  
-**Database & Infra:** PostgreSQL, MySQL, Docker  
-**DSA/CP:** Strong grasp of Arrays, Graphs, Trees, DP,Recursion  
-**Tools:** Git, GitHub Actions, Postman, IntelliJ, VSCode
-
----
-
-## 📂 Featured Repositories
-- [Ecommerce (Full-Stack)](https://github.com/codedbyshashi/ecommerce)  
-- [Spring AI: Chat & Image Generator](https://github.com/codedbyshashi/spring-ai)  
-- [Personal Portfolio](https://github.com/codedbyshashi/personal-portfolio-website)
-
----
-
-## 📊 GitHub Stats
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=codedbyshashi&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyshashi&layout=compact&theme=radical&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🎯 Current Goals
-- Crack SDE roles at **top product companies**  
-- Sharpen **DSA + LLD + System Design** fundamentals  
-- Contribute to **open-source Java/Spring projects**  
-
----
-
-## 📫 Let’s Connect
-- 📧 Email: **kotashashidharreddy1@gmail.com**  
-- 💼 LinkedIn: [Shashidhar Reddy](https://www.linkedin.com/in/shashidhar-reddy-730176344/)  
-- 🏆 LeetCode: [shashi8195](https://leetcode.com/u/shashi8195/)  
-- 🌐 Portfolio: *coming soon…*
-
----
-
-## ✅ Open To
-- Internship / Full-time **SDE roles (Backend | Full-Stack)**  
-- Collaborations on **Java, Spring Boot, or DSA-related projects**  
-
----
-
-> 🔄 *Last updated: August 2025* (auto-update workflow coming soon 🚀)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
