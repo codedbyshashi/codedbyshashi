@@ -4,7 +4,7 @@ Hi 👋, I'm Shashi<br>Java | Spring Boot | Full-Stack (React) | DSA 🚀 Buildi
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashidhar-reddy-kota-730176344/) 
-[![Leetcode](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://leetcode.com/u/shashi8195/) 
+[![Leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=linkedin&logoColor=white)](https://leetcode.com/u/shashi8195/) 
 
 
 # 💻 Tech Stack:
