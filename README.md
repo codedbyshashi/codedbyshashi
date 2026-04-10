@@ -1,11 +1,13 @@
 <!-- ================= HERO ================= -->
 
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shashi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=Shashi&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=40&desc=Backend-Focused%20Developer&descAlignY=65&descSize=18"/>
 </p>
 
+<!-- Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend-Focused+Developer;Spring+Boot+%7C+Java;Full-Stack+Development+%7C+React;Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Spring+Boot+%7C+Java;Full-Stack+Development;DSA+%2B+System+Design" />
 </p>
 
 <p align="center">
@@ -20,7 +22,7 @@
   </a>
 </p>
 
----
+<br>
 
 <!-- ================= INTRO ================= -->
 
@@ -28,14 +30,14 @@
 
 <p align="center">
 
-🎓 B.Tech CSE (3rd Year)
-⚙️ Backend-focused developer working with scalable systems
-🧠 Strong in DSA, APIs, and system thinking
-🚀 Building full-stack applications with real-world use cases
+🎓 B.Tech CSE (3rd Year)<br>
+⚙️ Backend-focused developer working with scalable systems<br>
+🧠 Strong in DSA, APIs, and system thinking<br>
+🚀 Building full-stack applications with practical use cases
 
 </p>
 
----
+<br>
 
 <!-- ================= TECH STACK ================= -->
 
@@ -47,14 +49,14 @@
 
 </p>
 
----
+<br>
 
 <!-- ================= FOOTER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <b>Building systems with clarity, scalability, and purpose.</b>
+  <b>Building reliable and scalable applications.</b>
 </p>
