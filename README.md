@@ -1,159 +1,60 @@
 <!-- ================= HERO ================= -->
 
-<h1 align="center">Shashi</h1>
-
 <p align="center">
-  <b>Backend-Focused Developer</b><br>
-  <i>Designing and building scalable full-stack applications</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shashi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Spring+Boot+Backend+Development;Full-Stack+Development+%7C+React;DSA+%2B+System+Design;Building+Reliable+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend-Focused+Developer;Spring+Boot+%7C+Java;Full-Stack+Development+%7C+React;Building+Scalable+Applications" />
 </p>
 
 <p align="center">
   <a href="mailto:kotashashidharreddy1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/shashidhar-reddy-kota-730176344/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/shashi8195/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 💡 About
+<!-- ================= INTRO ================= -->
+
+<h3 align="center">💡 About</h3>
 
 <p align="center">
 
 🎓 B.Tech CSE (3rd Year)
-⚙️ Backend-focused developer with interest in scalable systems
-🧠 Strong foundation in data structures and system thinking
-🚀 Building full-stack applications with practical use cases
+⚙️ Backend-focused developer working with scalable systems
+🧠 Strong in DSA, APIs, and system thinking
+🚀 Building full-stack applications with real-world use cases
 
 </p>
 
 ---
 
-## ⚡ Snapshot
+<!-- ================= TECH STACK ================= -->
+
+<h3 align="center">🧠 Tech Stack</h3>
 
 <p align="center">
 
-🔐 Authentication & authorization systems
-⚙️ REST API design and backend architecture
-🌐 Full stack development (database to frontend)
-📦 Focus on maintainable and scalable code
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind,mysql,postgres,docker,git&theme=dark"/>
 
 </p>
 
 ---
 
-## 🚀 Projects
-
-<p align="center"><b>Selected work</b></p>
-
----
-
-### 🛒 Ecommerce Platform
-
-```diff
-+ Spring Boot • React • PostgreSQL • Stripe
-```
-
-• Role-based architecture (User, Admin, Seller)
-• Secure authentication using JWT (HttpOnly cookies)
-• Payment integration with Stripe
-• Pagination, sorting, and API design
-• Containerized deployment using Docker
-
----
-
-### 🤖 AI Chat & Image Generator
-
-```diff
-+ Spring Boot • OpenAI • React
-```
-
-• REST APIs for chat and image generation
-• Real-time interaction on frontend
-• Integration of external AI services
-
----
-
-### 🧾 Complaint Management System
-
-```diff
-+ Spring Boot • React • MySQL
-```
-
-• Complaint lifecycle management
-• Role-based dashboards
-• SLA tracking and audit logs
-• Real-time updates using SSE
-
----
-
-## 🧠 Tech Stack
+<!-- ================= FOOTER ================= -->
 
 <p align="center">
-
-**Backend**
-`Java` `Spring Boot` `Spring Security` `JPA` `JWT`
-
-**Frontend**
-`React` `Redux` `JavaScript` `Tailwind`
-
-**Database**
-`MySQL` `PostgreSQL`
-
-**Tools**
-`Git` `Docker` `Postman` `IntelliJ`
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
 
----
-
-## 📊 Work Highlights
-
 <p align="center">
-
-📦 Built multiple full-stack applications
-🔐 Implemented secure authentication workflows
-💳 Integrated third-party payment systems
-⚙️ Designed modular and scalable APIs
-🧠 Applied DSA concepts in problem solving
-
-</p>
-
----
-
-## 🎯 Current Focus
-
-```yaml
-- Data Structures and Algorithms
-- System Design (LLD and HLD)
-- Backend scalability
-- AI-based application features
-```
-
----
-
-## ⚡ Core Strengths
-
-<p align="center">
-
-✔ Backend-oriented development approach
-✔ Clean and maintainable code practices
-✔ Structured problem-solving mindset
-✔ Consistent learning and execution
-
-</p>
-
----
-
-<p align="center">
-  <b>Building reliable applications with a focus on scalability and clarity.</b>
+  <b>Building systems with clarity, scalability, and purpose.</b>
 </p>
