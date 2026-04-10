@@ -1,24 +1,159 @@
-# 💫 About Me:
-Hi 👋, I'm Shashi<br>Java | Spring Boot | Full-Stack (React) | DSA 🚀 Building scalable backend systems & real-world full-stack products • Aspiring SDE<br><br>🔭 Projects I’ve Built<br>Ecommerce Full-Stack — Spring Boot + React + PostgreSQL + Stripe + JWT<br>👉 Production-ready ecommerce app with product catalog, cart, orders, admin panel, secure APIs, role-based access, pagination, error handling, and Docker + AWS deployment.<br><br>Spring AI Integrations — OpenAI-powered Chat & Image Generator<br>👉 REST APIs + React UI to generate images and recipes, showcasing modern API integrations and real-time UX patterns.<br><br>Portfolio Website — Responsive personal site to showcase projects, resume, and blog posts.<br>👉 Built with HTML/CSS/JS (dark-light theme switcher included).<br><br>🛠️ Tech Stack<br>Backend: Java, Spring Boot, Spring Security, JPA/Hibernate, REST APIs, JWT<br>Frontend: Html,Css,Javascript,React, Redux, Tailwind CSS, Axios<br>Database & Infra: PostgreSQL, MySQL, Docker<br>DSA/CP: Strong grasp of Arrays, Graphs, Trees, DP,Recursion<br>Tools: Git, GitHub Actions, Postman, IntelliJ, VSCode<br><br>📂 Featured Repositories<br>Ecommerce (Full-Stack)<br>Spring AI: Chat & Image Generator<br>Personal Portfolio<br>📊 GitHub Stats<br> <br><br>🎯 Current Goals<br>Crack SDE roles at top product companies<br>Sharpen DSA + LLD + System Design fundamentals<br>Contribute to open-source Java/Spring projects<br>📫 Let’s Connect<br>📧 Email: kotashashidharreddy1@gmail.com<br>💼 LinkedIn: Shashidhar Reddy<br>🏆 LeetCode: shashi8195<br>🌐 Portfolio: coming soon…<br>✅ Open To<br>Internship / Full-time SDE roles (Backend | Full-Stack)<br>Collaborations on Java, Spring Boot, or DSA-related projects<br>🔄 Last updated: August 2025 (auto-update workflow coming soon 🚀)
+<!-- ================= HERO ================= -->
 
+<h1 align="center">Shashi</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashidhar-reddy-kota-730176344/) 
-[![Leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=linkedin&logoColor=white)](https://leetcode.com/u/shashi8195/) 
+<p align="center">
+  <b>Backend-Focused Developer</b><br>
+  <i>Designing and building scalable full-stack applications</i>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Spring+Boot+Backend+Development;Full-Stack+Development+%7C+React;DSA+%2B+System+Design;Building+Reliable+Applications" />
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codedbyshashi&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=codedbyshashi&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyshashi&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=codedbyshashi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="mailto:kotashashidharreddy1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shashidhar-reddy-kota-730176344/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/shashi8195/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=codedbyshashi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💡 About
+
+<p align="center">
+
+🎓 B.Tech CSE (3rd Year)
+⚙️ Backend-focused developer with interest in scalable systems
+🧠 Strong foundation in data structures and system thinking
+🚀 Building full-stack applications with practical use cases
+
+</p>
+
+---
+
+## ⚡ Snapshot
+
+<p align="center">
+
+🔐 Authentication & authorization systems
+⚙️ REST API design and backend architecture
+🌐 Full stack development (database to frontend)
+📦 Focus on maintainable and scalable code
+
+</p>
+
+---
+
+## 🚀 Projects
+
+<p align="center"><b>Selected work</b></p>
+
+---
+
+### 🛒 Ecommerce Platform
+
+```diff
++ Spring Boot • React • PostgreSQL • Stripe
+```
+
+• Role-based architecture (User, Admin, Seller)
+• Secure authentication using JWT (HttpOnly cookies)
+• Payment integration with Stripe
+• Pagination, sorting, and API design
+• Containerized deployment using Docker
+
+---
+
+### 🤖 AI Chat & Image Generator
+
+```diff
++ Spring Boot • OpenAI • React
+```
+
+• REST APIs for chat and image generation
+• Real-time interaction on frontend
+• Integration of external AI services
+
+---
+
+### 🧾 Complaint Management System
+
+```diff
++ Spring Boot • React • MySQL
+```
+
+• Complaint lifecycle management
+• Role-based dashboards
+• SLA tracking and audit logs
+• Real-time updates using SSE
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+
+**Backend**
+`Java` `Spring Boot` `Spring Security` `JPA` `JWT`
+
+**Frontend**
+`React` `Redux` `JavaScript` `Tailwind`
+
+**Database**
+`MySQL` `PostgreSQL`
+
+**Tools**
+`Git` `Docker` `Postman` `IntelliJ`
+
+</p>
+
+---
+
+## 📊 Work Highlights
+
+<p align="center">
+
+📦 Built multiple full-stack applications
+🔐 Implemented secure authentication workflows
+💳 Integrated third-party payment systems
+⚙️ Designed modular and scalable APIs
+🧠 Applied DSA concepts in problem solving
+
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+- Data Structures and Algorithms
+- System Design (LLD and HLD)
+- Backend scalability
+- AI-based application features
+```
+
+---
+
+## ⚡ Core Strengths
+
+<p align="center">
+
+✔ Backend-oriented development approach
+✔ Clean and maintainable code practices
+✔ Structured problem-solving mindset
+✔ Consistent learning and execution
+
+</p>
+
+---
+
+<p align="center">
+  <b>Building reliable applications with a focus on scalability and clarity.</b>
+</p>
