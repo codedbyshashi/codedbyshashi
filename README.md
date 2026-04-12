@@ -1,11 +1,9 @@
 <!-- ================= HERO ================= -->
 
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=Shashi&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=40&desc=Backend-Focused%20Developer&descAlignY=65&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=Shashi&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=65&descSize=18"/>
 </p>
 
-<!-- Typing -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Spring+Boot+%7C+Java;Full-Stack+Development;DSA+%2B+System+Design" />
 </p>
@@ -20,6 +18,9 @@
   <a href="https://leetcode.com/u/shashi8195/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+  <a href="https://codedbyshashi.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 <br>
@@ -29,12 +30,22 @@
 <h3 align="center">💡 About</h3>
 
 <p align="center">
+🎓 B.Tech CSE (2023–2027)<br>
+⚙️ Full Stack Developer focused on Spring Boot & React<br>
+🧠 Strong in DSA, APIs, and system design fundamentals<br>
+🚀 Building scalable real-world applications
+</p>
 
-🎓 B.Tech CSE (3rd Year)<br>
-⚙️ Backend-focused developer working with scalable systems<br>
-🧠 Strong in DSA, APIs, and system thinking<br>
-🚀 Building full-stack applications with practical use cases
+<br>
 
+<!-- ================= PORTFOLIO ================= -->
+
+<h3 align="center">🌐 Portfolio</h3>
+
+<p align="center">
+  <a href="https://codedbyshashi.github.io/portfolio/">
+    👉 Visit My Portfolio
+  </a>
 </p>
 
 <br>
@@ -44,9 +55,20 @@
 <h3 align="center">🧠 Tech Stack</h3>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind,mysql,postgres,docker,git&theme=dark"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind,mysql,postgres,docker,git&theme=dark"/>
+<br>
 
+<!-- ================= FEATURED PROJECTS ================= -->
+
+<h3 align="center">🚀 Featured Projects</h3>
+
+<p align="center">
+🔹 Complaint Management System (Spring Boot + React)<br>
+🔹 Full Stack E-commerce Platform<br>
+🔹 Fake News Detection (ML)<br>
+🔹 AI Image Enhancer
 </p>
 
 <br>
@@ -58,5 +80,5 @@
 </p>
 
 <p align="center">
-  <b>Building reliable and scalable applications.</b>
+  <b>Building scalable systems with clean architecture.</b>
 </p>
