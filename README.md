@@ -60,16 +60,7 @@
 
 <br>
 
-<!-- ================= FEATURED PROJECTS ================= -->
 
-<h3 align="center">🚀 Featured Projects</h3>
-
-<p align="center">
-🔹 Complaint Management System (Spring Boot + React)<br>
-🔹 Full Stack E-commerce Platform<br>
-🔹 Fake News Detection (ML)<br>
-🔹 AI Image Enhancer
-</p>
 
 <br>
 
